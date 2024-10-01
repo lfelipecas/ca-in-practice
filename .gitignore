@@ -1,0 +1,44 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+*.venv
+*.virtualenv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+
+# Sensitive information files
+.env
+config.json
+credentials/
+
+# Data files
+data/
+*.csv
+*.xlsx
+*.h5
+*.json
+
+# Output files
+*.png
+*.svg
+*.pdf
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp

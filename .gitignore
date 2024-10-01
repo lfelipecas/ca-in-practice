@@ -26,11 +26,9 @@ config.json
 credentials/
 
 # Data files
-data/
-*.csv
-*.xlsx
-*.h5
-*.json
+# Ignore specific data files but allow the data folder
+data/*.tmp  # Ignorar archivos temporales
+data/*.bak  # Ignorar archivos de backup
 
 # Output files
 *.png

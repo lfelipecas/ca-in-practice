@@ -4,7 +4,7 @@
 
 **CA in Practice** is an educational project aimed at replicating and understanding the concepts of **Correspondence Analysis (CA)** as described in Michael Greenacre's book *"La práctica del análisis de correspondencias"* (Fundación BBVA, 2008). The goal of this project is to provide a hands-on implementation of the exercises presented in the book, ensuring that users can learn and explore the methods of correspondence analysis in an accessible way.
 
-This project is developed strictly for educational purposes, focusing on understanding and reproducing the original examples from Greenacre's book without applying them to other real-world domains, such as finance or investments.
+This project is developed strictly for educational purposes, focusing on understanding and reproducing the original examples from Greenacre's book.
 
 ## Objectives
 

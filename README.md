@@ -44,7 +44,7 @@ This project is inspired by and based on the book *"La práctica del análisis d
 
 ## Requirements
 
-The project uses the following Python libraries, which are included in the `requirements.txt` file:
+This project uses **Python 3.9.19**. The required Python libraries are included in the `requirements.txt` file:
 
 - `numpy`
 - `pandas`

@@ -6,24 +6,41 @@
 
 This project is developed strictly for educational purposes, focusing on understanding and reproducing the original examples from Greenacre's book without applying them to other real-world domains, such as finance or investments.
 
-## Purpose
+## Objectives
 
-The main purpose of this repository is:
+The main objectives of this project are:
+
+- To understand the basic principles of Correspondence Analysis (CA).
 - To replicate exercises and concepts from *"La práctica del análisis de correspondencias"* by Michael Greenacre.
 - To verify and validate the outcomes of these exercises by comparing them with those presented in the book.
 - To provide a comprehensive educational resource for those learning about correspondence analysis, by offering a detailed implementation of the book’s concepts.
+- To develop a deeper understanding of the visualization of categorical data using methods such as scatter plots and correspondence maps.
 
-The project is designed purely for educational purposes and aims to help those interested in learning correspondence analysis by working through the theoretical examples provided by Michael Greenacre.
+## Project Structure
 
-## Attribution
+The repository is organized as follows:
+
+- **data/**: Contains the data files used for exercises and replications from the book.
+- **notebooks/**: Jupyter notebooks replicating the exercises and concepts from Greenacre's book.
+  - Each notebook corresponds to a chapter or a specific topic from the book.
+
+## Attribution and Disclaimer
 
 This project is inspired by and based on the book *"La práctica del análisis de correspondencias"* by Michael Greenacre (Fundación BBVA, 2008). The implementation of the concepts and exercises presented in this repository is intended solely for educational and research purposes.
 
-**Michael Greenacre has not participated in, approved, or endorsed this work.** The concepts and methodologies implemented here are interpreted and applied independently by the project author, based on the knowledge presented in Greenacre's book.
+**Michael Greenacre has not participated in, approved, or endorsed this work.** The concepts and methodologies implemented here are interpreted and applied independently by the project author, **L. Felipe Castañeda G.**, based on the knowledge presented in Greenacre's book. Any errors or modifications from the original work are solely the responsibility of the author of this repository.
 
-## Disclaimer
+## How to Use This Repository
 
-This project is independently created by **L. Felipe Castañeda G.** and does not imply any official association, endorsement, or approval by Michael Greenacre or Fundación BBVA. The content presented here is for educational purposes, and the examples and concepts are reinterpreted to facilitate learning about correspondence analysis.
+1. Clone the repository:
+
+   ```
+   git clone https://github.com/lfelipecas/ca-in-practice.git
+   ```
+
+2. Navigate to the `notebooks/` directory to explore the Jupyter notebooks, which provide detailed step-by-step replications of the analyses from the book.
+
+3. The data needed for each notebook is stored in the `data/` directory and loaded directly into each notebook.
 
 ## Requirements
 
@@ -39,5 +56,6 @@ The project uses the following Python libraries, which are included in the `requ
 
 To install the dependencies, run:
 
-```bash
+```
 pip install -r requirements.txt
+```

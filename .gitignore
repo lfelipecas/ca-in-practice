@@ -26,9 +26,12 @@ config.json
 credentials/
 
 # Data files
-# Ignore specific data files but allow the data folder
-data/*.tmp  # Ignorar archivos temporales
-data/*.bak  # Ignorar archivos de backup
+# Ignore specific temporary or backup files in the data folder
+data/*.tmp  # Ignore temporary files
+data/*.bak  # Ignore backup files
+
+# Ignore all files in the data folder
+data/
 
 # Output files
 *.png

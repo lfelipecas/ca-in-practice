@@ -5,3 +5,4 @@ seaborn==0.13.2
 prince==0.13.1
 scipy==1.13.1
 jupyterlab==4.2.5
+xlrd==2.0.1

@@ -2,20 +2,17 @@
 
 ## Overview
 
-**CA in Practice** is an educational project aimed at replicating and understanding the concepts of **Correspondence Analysis (CA)** as described in Michael Greenacre's book *"La práctica del análisis de correspondencias"* (Fundación BBVA, 2008). The goal of this project is to provide a hands-on implementation of the exercises presented in the book, ensuring that users can learn and explore the methods of correspondence analysis in an accessible way.
+**CA in Practice** is a project aimed at replicating and implementing the examples of **Correspondence Analysis (CA)** as presented in Michael Greenacre's book *"La práctica del análisis de correspondencias"* (Fundación BBVA, 2008), which is the Spanish edition of the second edition of *"Correspondence Analysis in Practice"*. The focus of this project is to provide a practical, hands-on replication of the exercises and methods demonstrated in the book, offering users an accessible and functional implementation in Python.
 
-This project is developed strictly for educational purposes, focusing on understanding and reproducing the original examples from Greenacre's book. The datasets used in this project are sourced from the CARME-N network, which provides resources for correspondence analysis and related methods.
+The project’s goal is to faithfully reproduce the results from the original examples in Greenacre's book. The datasets used in this project are obtained from the CARME-N network, which serves as a repository for correspondence analysis data and related methods.
 
 ## Objectives
 
 The main objectives of this project are:
-
-- To understand the basic principles of Correspondence Analysis (CA).
-- To replicate exercises and concepts from *"La práctica del análisis de correspondencias"* by Michael Greenacre.
+- To apply the principles of Correspondence Analysis (CA) through the practical implementation of examples.
+- To replicate exercises from "La práctica del análisis de correspondencias", the Spanish edition of the second edition of *"Correspondence Analysis in Practice"* by Michael Greenacre.
 - To verify and validate the outcomes of these exercises by comparing them with those presented in the book.
-- To provide a comprehensive educational resource for those learning about correspondence analysis, offering a detailed implementation of the book’s concepts.
 - To adapt the original code from R to Python, allowing for broader accessibility to the examples and methods.
-- To develop a deeper understanding of the visualization of categorical data using methods such as scatter plots and correspondence maps.
 
 ## Project Structure
 

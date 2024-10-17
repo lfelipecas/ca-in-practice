@@ -25,7 +25,7 @@ The datasets required to run the notebooks are not included in the repository bu
 
 ## Attribution and Disclaimer
 
-This project is inspired by and based on the book *"La práctica del análisis de correspondencias"* by Michael Greenacre (Fundación BBVA, 2008). The implementation of the concepts and exercises presented in this repository is intended solely for educational and research purposes.
+This project is inspired by and based on the book *"La práctica del análisis de correspondencias"* by Michael Greenacre (Fundación BBVA, 2008). The implementation of the concepts and exercises presented in this repository is intended solely for educational purposes.
 
 The original code examples from the book were written in **R**. These have been adapted to **Python** in this project, making the analyses more accessible to a wider audience. All adaptations have been carefully reviewed to match the original results as presented by Greenacre.
 

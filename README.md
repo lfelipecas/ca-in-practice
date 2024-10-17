@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 ## CARME-N Network
 
-We would like to acknowledge the CARME-N network, which provides valuable resources for correspondence analysis and related methods. The datasets and some of the original R code used in this project come from CARME-N. For more information and resources, visit the [CARME-N website](http://www.carme-n.org).
+The CARME-N network offers valuable resources for correspondence analysis and related methods. The datasets and some of the original R code used in this project are sourced from CARME-N. For more information and resources, visit the [CARME-N website](http://www.carme-n.org).
 
 ## Author
 
